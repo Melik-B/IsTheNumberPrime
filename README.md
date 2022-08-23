@@ -5,7 +5,7 @@
 
 <h3>Is The Number Prime :</h3>
 
-Hello sir, this <b>simple</b> console project shows whether the word you entered is a <b>PALINDROME</b> or not. in other words, what you call a palindrome is called the fact that the opposite of a word and its plain are the same. You can improve yourself on conditions, loops or methods using this simple console application.
+Hello sir, the purpose of this <b>SIMPLE</b> console project you have seen is to show whether the number you entered is prime or not. With this simple console project, you can improve yourself on loops, conditions or methods.
 
 
 ```bash
