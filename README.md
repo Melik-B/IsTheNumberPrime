@@ -35,8 +35,6 @@ Hello sir, the purpose of this <b>SIMPLE</b> console project you have seen is to
 <h3>What will you learn from this project</h3>
 
 - [x] Conditions
-- [x] Methods
-    - [x] Length Command
     - [x] Loops
 
 <h3>Built With</h3>
