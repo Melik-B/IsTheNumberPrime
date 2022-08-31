@@ -45,6 +45,6 @@ Hello sir, the purpose of this <b>SIMPLE</b> console project you have seen is to
 
 Melik Baykal - [@lilMellik](https://twitter.com/lilMellik) - melikbaykal06@gmail.com
 
-Project Link: [UpperCase LowerCase](https://github.com/Melik-B/UppercaseLowercase)
+Project Link: [Is The Number Prime](https://github.com/Melik-B/IsTheNumberPrime)
 
 <p align="right">-Melik Baykal</p>
