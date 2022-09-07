@@ -47,4 +47,4 @@ Melik Baykal - [@lilMellik](https://twitter.com/lilMellik) - melikbaykal06@gmail
 
 Project Link: [Is The Number Prime](https://github.com/Melik-B/IsTheNumberPrime)
 
-<p align="right">-Melik Bayka</p>
+<p align="right">-Melik Baykal</p>
